@@ -16,10 +16,6 @@ from os import environ
 # Build paths inside the project like this: join(BASE_DIR, ...)
 BASE_DIR = dirname(dirname(abspath(__file__)))
 
-
-# Quick-start development settings - unsuitable for production
-# See https://docs.djangoproject.com/en/2.1/howto/deployment/checklist/
-
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'xg&pzr1ca%1aycj%(^gib&(lz_gofs=08ar&l1074#$0(9*@k7'
 
